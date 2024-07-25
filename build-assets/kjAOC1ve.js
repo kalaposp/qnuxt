@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t,a as n}from"./V19x9vJ8.js";const o={},c=n("p",null,"Frequently Asked Questions",-1),r=[c];function _(a,d){return t(),s("div",null,r)}const i=e(o,[["render",_]]);export{i as default};
