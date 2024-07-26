@@ -1,1 +1,0 @@
-import{u as e}from"./mRSk9hkE.js";import{c as t,o,a}from"./CW2CgJTy.js";const s=a("p",null,"300B",-1),n=[s],p={__name:"index",setup(r){return e({title:"Qualiton | 300B Integrated Amplifier"}),(c,_)=>(o(),t("div",null,n))}};export{p as default};
