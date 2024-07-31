@@ -1,0 +1,1 @@
+import{u as e}from"./DSosHptO.js";import{c as t,o,a}from"./G_pUFV03.js";const s=a("p",null,"Support",-1),r=[s],l={__name:"index",setup(n){return e({title:"Qualiton | Support"}),(c,p)=>(o(),t("div",null,r))}};export{l as default};
