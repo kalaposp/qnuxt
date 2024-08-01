@@ -1,1 +1,0 @@
-import{u as e}from"./DRCd7FXT.js";import{c as t,o,a}from"./B32gPJ5v.js";const s=a("p",null,"Support",-1),r=[s],l={__name:"index",setup(n){return e({title:"Qualiton | Support"}),(c,p)=>(o(),t("div",null,r))}};export{l as default};
