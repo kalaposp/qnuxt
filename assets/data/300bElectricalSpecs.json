@@ -1,0 +1,78 @@
+[
+    {
+        "rowheader": "Rated Output Power",
+        "value": "2 x 25 Watts @ 4 or 8 Ohms"
+    },
+    {
+        "rowheader": "Output Load Impedance",
+        "value": "4 or 8 Ohms"
+    },
+    {
+        "rowheader":"Number of Channels",
+        "value":"2"
+    },
+    {
+        "rowheader":"Frequency Response",
+        "value":"5 Hz - 85 kHz (-3 dB, 1 Watt) \n 15 Hz - 70 kHz (-3 dB, 25 Watts)"
+    },
+    {
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.5 % across the entire power spectrum, from milliwatts to rated output, spanning 20 Hz to 20 kHz."
+    },
+    {
+        "rowheader":"Rated Power Bandwidth",
+        "value":"20 Hz - 20 kHz"
+    },
+    {
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 105 dB below rated output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > 110 dB below rated output \n with A-weighting filter"
+    },
+    {
+        "rowheader":"Number of Outputs",
+        "value":"2 Unbalanced POWER OUT \n 1 Unbalanced SUB OUT"
+    },
+    {
+        "rowheader":"Number of Inputs",
+        "value":"4 Unbalanced STEREO IN \n 1 Balanced STEREO IN"
+    },
+    {
+        "rowheader":"Input Sensitivity \n (for rated output)",
+        "value":"0.65 Volts Unbalanced \n 0.65 Volts Balanced"
+    },
+    {
+        "rowheader":"Input Impedance",
+        "value":"10 000 Ohms Unbalanced \n 20 000 Ohms Balanced"
+    },
+    {
+        "rowheader":"Gain",
+        "value":"+23.75 dB @ 4 Ohms \n +26.75 dB @ 8 Ohms"
+    },
+    {
+        "rowheader":"Vacuum Tubes",
+        "value":"2 x 12AX7EH Gold \n 4 x 12AT7EH Gold \n 4 x 300B EH"
+    },
+    {
+        "rowheader":"Remote Control",
+        "value":"Stand-By \n Volume \n Mute \n Input Selection \n Status Display Brightness"
+    },
+    {
+        "rowheader":"Power Requirement",
+        "value":"200 W idle \n 460 W max \n 1 W stand-by"
+    },
+    {
+        "rowheader":"Weight",
+        "value":"xx kg"
+    },
+    {
+        "rowheader":"Dimensions",
+        "value":"xx x xx x xx cm"
+    },
+    {
+        "rowheader":"Shipping Weight",
+        "value":"xx kg"
+    },
+    {
+        "rowheader":"Shipping Dimensions",
+        "value":"xx x xx x xx cm"
+    }
+]
