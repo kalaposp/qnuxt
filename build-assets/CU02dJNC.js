@@ -1,0 +1,1 @@
+import{u as e}from"./keXonGSD.js";import{c as t,o,a}from"./CluwA4QH.js";const s=a("p",null,"A75",-1),n=[s],p={__name:"index",setup(r){return e({title:"Qualiton | A75 Integrated Amplifier"}),(c,_)=>(o(),t("div",null,n))}};export{p as default};
