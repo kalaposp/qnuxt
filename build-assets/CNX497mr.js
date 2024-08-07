@@ -1,1 +1,0 @@
-import{u as e}from"./8sY569xx.js";import{c as t,o as a,a as o}from"./dEOxTca4.js";const s=o("p",null,"Dealers",-1),r=[s],u={__name:"index",setup(n){return e({title:"Qualiton | Dealers"}),(c,l)=>(a(),t("div",null,r))}};export{u as default};
