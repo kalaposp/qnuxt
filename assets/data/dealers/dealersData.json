@@ -10,17 +10,17 @@
     {
         "country": "Hungary",
         "name": "Audio-Hungary Kft.",
-        "address": "4400 Nyíregyháza, Derkovits utca 132/P.",
+        "address": "4400 Nyíregyháza, Derkovits utca 132/P, Hungary",
         "tel": "+36 42 44 66 88",
         "website": "https://audiohungary.com/",
         "flag": "twemoji:flag-hungary"
     },
     {
         "country": "Italy",
-        "name": "Name 2",
-        "address": "Address 2",
-        "tel": "Tel 2",
-        "website": "Website 2",
+        "name": "MAD FOR MUSIC DI TONIOLO DIMITRI ",
+        "address": "Piazza Santi Pietro e Paolo 1, 20044 Arese MI, Italy",
+        "tel": "+39 02 91447 165",
+        "website": "https://www.madformusic.it/",
         "flag": "twemoji:flag-italy"
     }
 ]
