@@ -1,0 +1,26 @@
+[
+    {
+        "country": "Canada",
+        "name": "Hi Fi Art",
+        "address": "232 Orchard Hill Drive Winnipeg, Manitoba R3X 1K4, Canada",
+        "tel": "+1 204 338 6926",
+        "website": "https://hifiart.net/",
+        "flag": "twemoji:flag-canada"
+    },
+    {
+        "country": "Hungary",
+        "name": "Audio-Hungary Kft.",
+        "address": "4400 Nyíregyháza, Derkovits utca 132/P.",
+        "tel": "+36 42 44 66 88",
+        "website": "https://audiohungary.com/",
+        "flag": "twemoji:flag-hungary"
+    },
+    {
+        "country": "Italy",
+        "name": "Name 2",
+        "address": "Address 2",
+        "tel": "Tel 2",
+        "website": "Website 2",
+        "flag": "twemoji:flag-italy"
+    }
+]
