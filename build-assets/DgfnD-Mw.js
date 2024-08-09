@@ -1,1 +1,0 @@
-import{u as e}from"./BlbRXahj.js";import{c as o,o as t,a}from"./Bt1Q1pxx.js";const n=a("p",null,"Technology",-1),s=[n],u={__name:"index",setup(c){return e({title:"Qualiton | Technology"}),(l,r)=>(t(),o("div",null,s))}};export{u as default};

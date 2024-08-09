@@ -1,1 +1,0 @@
-import{u as e}from"./BlbRXahj.js";import{c as t,o,a as s}from"./Bt1Q1pxx.js";const a=s("p",null,"Reviews",-1),n=[a],u={__name:"index",setup(c){return e({title:"Qualiton | Reviews"}),(r,_)=>(o(),t("div",null,n))}};export{u as default};

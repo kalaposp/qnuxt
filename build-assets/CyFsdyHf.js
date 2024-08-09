@@ -1,0 +1,1 @@
+import{u as e}from"./D-keEkLu.js";import{c as t,o,a as r}from"./e1kwgB2C.js";const a=r("p",null,"Our Story",-1),s=[a],i={__name:"index",setup(n){return e({title:"Qualiton | Our Story"}),(c,_)=>(o(),t("div",null,s))}};export{i as default};
