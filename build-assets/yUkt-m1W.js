@@ -1,1 +1,0 @@
-import{u as e}from"./CVnXVwNL.js";import{c as o,o as t,a as s}from"./DGeIaLZV.js";const a=s("p",null,"Philosophy",-1),n=[a],p={__name:"index",setup(c){return e({title:"Qualiton | Philosophy"}),(l,r)=>(t(),o("div",null,n))}};export{p as default};
