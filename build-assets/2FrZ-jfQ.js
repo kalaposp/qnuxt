@@ -1,1 +1,0 @@
-import{u as e}from"./DreUvVuN.js";import{c as t,o as a}from"./Dx9u7lbz.js";const l={__name:"index",setup(r){return e({title:"Qualiton | Brand"}),(n,o)=>(a(),t("div",null," Brand "))}};export{l as default};
