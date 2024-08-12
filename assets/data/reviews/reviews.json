@@ -1,0 +1,16 @@
+[
+    {
+        "id": "review-1",
+        "title": "Review Title 1",
+        "src": "/img/300b/dummy-dark.jpg",
+        "alt": "alt-text",
+        "date": "2024.08.12."
+    },
+    {
+        "id": "review-2",
+        "title": "Review Title 2",
+        "src": "/img/300b/dummy-dark.jpg",
+        "alt": "alt-text",
+        "date": "2024.01.01."
+    }
+]

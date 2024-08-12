@@ -1,0 +1,16 @@
+[
+    {
+        "id": "news-1",
+        "title": "News Title 1",
+        "src": "/img/300b/dummy-dark.jpg",
+        "alt": "alt-text",
+        "date": "2024.08.12."
+    },
+    {
+        "id": "news-2",
+        "title": "News Title 2",
+        "src": "/img/300b/dummy-dark.jpg",
+        "alt": "alt-text",
+        "date": "2024.01.01."
+    }
+]
