@@ -1,1 +1,0 @@
-import{u as e}from"./DfMqihqo.js";import{_ as t}from"./BEVR3EiU.js";import{c as a,b as r,w as i,o,d as s}from"./CRXKUGyF.js";import"./BciDsya0.js";import"./BtM_9gFL.js";const f={__name:"index",setup(c){return e({title:"Qualiton | Reviews"}),(m,n)=>(o(),a("div",null,[r(t,{id:"reviews-bar",path:"./reviews"},{heading:i(()=>[s(" Reviews ")]),_:1})]))}};export{f as default};
