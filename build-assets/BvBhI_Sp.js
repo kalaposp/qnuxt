@@ -1,1 +1,0 @@
-import{u as e}from"./B_lNkIY7.js";import{c as t,o as a,a as o}from"./BZWKjM2f.js";const r=o("p",null,"Service Repair",-1),s=[r],p={__name:"index",setup(c){return e({title:"Qualiton | Service Repair"}),(i,n)=>(a(),t("div",null,s))}};export{p as default};
