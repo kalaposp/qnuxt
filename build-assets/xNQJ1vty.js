@@ -1,0 +1,1 @@
+import{u as e}from"./B_lNkIY7.js";import{c as o,o as t,a}from"./BZWKjM2f.js";const n=a("p",null,"Phono",-1),s=[n],u={__name:"index",setup(r){return e({title:"Qualiton | Phono Tube Preamplifier"}),(c,_)=>(t(),o("div",null,s))}};export{u as default};

@@ -1,1 +1,0 @@
-import{u as e}from"./DxLdj7Wb.js";import{_ as t}from"./lFauXyXz.js";import{c as a,b as o,o as r}from"./DZQUcjzn.js";const l={__name:"index",setup(s){return e({title:"Qualiton | Contact Us"}),(c,n)=>(r(),a("div",null,[o(t)]))}};export{l as default};
