@@ -1,0 +1,1 @@
+import{u as e}from"./BaD-an21.js";import{c as t,o,a}from"./Dy-I6vKn.js";const s=a("p",null,"Legacy Products",-1),c=[s],d={__name:"index",setup(r){return e({title:"Qualiton | Legacy Products"}),(n,_)=>(o(),t("div",null,c))}};export{d as default};
