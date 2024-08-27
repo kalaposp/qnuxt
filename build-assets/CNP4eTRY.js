@@ -1,0 +1,1 @@
+import{u as e}from"./ClRM4BpH.js";import{c as t,o as s,a as o}from"./B3z3M7QZ.js";const a=o("p",null,"Frequently Asked Questions",-1),n=[a],i={__name:"index",setup(r){return e({title:"Qualiton | FAQs"}),(c,_)=>(s(),t("div",null,n))}};export{i as default};
