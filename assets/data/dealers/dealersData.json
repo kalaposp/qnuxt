@@ -3,7 +3,7 @@
         "country": "Austria",
         "name": "LEN Hifi",
         "address": "Herkenweg 6, 47226 Duisburg, Germany",
-        "tel": "+49 (0) 2065 / 544 139",
+        "tel": "+49 0 2065 544 139",
         "website": "https://www.lenhifi.de/",
         "flag": "twemoji:flag-austria"
     },
@@ -19,7 +19,7 @@
         "country": "Chile",
         "name": "Southmusic Exclusive Audio",
         "address": "Avenida La Dehesa 1201 Lo Barnechea, Santiago, Chile",
-        "tel": "+56 974322619, +56 926372829",
+        "tel": "+56 974322619 or +56 926372829",
         "website": "https://www.southmusic.cl/",
         "flag": "twemoji:flag-chile"
     },
@@ -30,6 +30,14 @@
         "tel": "+86 21 61526859",
         "website": "http://www.avstyle.cn/",
         "flag": "twemoji:flag-china"
+    },
+    {
+        "country": "Czech Republic",
+        "name": "Analogue Atelier",
+        "address": "Belgická 132/14, 120 00 Vinohrady, Prague, Czech Republic",
+        "tel": "+420 724175822",
+        "website": "https://www.southmusic.cl/",
+        "flag": "twemoji:flag-czechia"
     },
     {
         "country": "Denmark",
@@ -43,7 +51,7 @@
         "country": "Germany",
         "name": "LEN Hifi",
         "address": "Herkenweg 6, 47226 Duisburg, Germany",
-        "tel": "+49 (0) 2065 / 544 139",
+        "tel": "+49 0 2065 544 139",
         "website": "https://www.lenhifi.de/",
         "flag": "twemoji:flag-germany"
     },
@@ -123,7 +131,7 @@
         "country": "Russia",
         "name": "Tophiend",
         "address": "Moscow, 3rd Yamskogo Polya Street, 9",
-        "tel": "+7 985 725-88-55",
+        "tel": "+7 985 725 88 55",
         "website": "https://tophiend.ru/",
         "flag": "twemoji:flag-russia"
     },
@@ -160,6 +168,14 @@
         "flag": "twemoji:flag-switzerland"
     },
     {
+        "country": "Taiwan",
+        "name": "Lin Trading Co. Ltd",
+        "address": "10545 8F, 272, NanKing E. Rd., Sec.3, Taipei, Taiwan",
+        "tel": "+886 2 2740 3366",
+        "website": "https://www.lin.com.tw/en/",
+        "flag": "twemoji:flag-taiwan"
+    },
+    {
         "country": "United Kingdom",
         "name": "Audio Visual Technology Solutions (UK) Ltd",
         "address": "29-31 Avon St, Wyken, Coventry CV2 3GJ, United Kingdom",
@@ -171,7 +187,7 @@
         "country": "United States of America",
         "name": "Well Pleased Audio Vida",
         "address": "1934 Old Gallows Rd. Suite 350, Tysons Corner, VA 22182, USA",
-        "tel": "+1 703-750-5461",
+        "tel": "+1 703 750 5461",
         "website": "https://wellpleasedav.com/",
         "flag": "twemoji:flag-united-states"
     },
