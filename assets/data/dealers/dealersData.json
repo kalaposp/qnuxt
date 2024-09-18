@@ -1,11 +1,59 @@
 [
     {
+        "country": "Austria",
+        "name": "LEN Hifi",
+        "address": "Herkenweg 6, 47226 Duisburg, Germany",
+        "tel": "+49 (0) 2065 / 544 139",
+        "website": "https://www.lenhifi.de/",
+        "flag": "twemoji:flag-austria"
+    },
+    {
         "country": "Canada",
         "name": "Hi Fi Art",
         "address": "232 Orchard Hill Drive Winnipeg, Manitoba R3X 1K4, Canada",
         "tel": "+1 204 338 6926",
         "website": "https://hifiart.net/",
         "flag": "twemoji:flag-canada"
+    },
+    {
+        "country": "Chile",
+        "name": "Southmusic Exclusive Audio",
+        "address": "Avenida La Dehesa 1201 Lo Barnechea, Santiago, Chile",
+        "tel": "+56 974322619, +56 926372829",
+        "website": "https://www.southmusic.cl/",
+        "flag": "twemoji:flag-chile"
+    },
+    {
+        "country": "China",
+        "name": "Shanghai Avstyle Electronic Technology Co. Ltd",
+        "address": "302, Building 8, Jinhuan Business Garden, No. 1977 Jinshajiang Road, Putuo District, Shanghai, China",
+        "tel": "+86 21 61526859",
+        "website": "http://www.avstyle.cn/",
+        "flag": "twemoji:flag-china"
+    },
+    {
+        "country": "Denmark",
+        "name": "StudioSound APS",
+        "address": "Herredsvej 157, 4944 Fejø, Denmark",
+        "tel": "+45 93 95 08 00",
+        "website": "https://studiosound.dk/",
+        "flag": "twemoji:flag-denmark"
+    },
+    {
+        "country": "Germany",
+        "name": "LEN Hifi",
+        "address": "Herkenweg 6, 47226 Duisburg, Germany",
+        "tel": "+49 (0) 2065 / 544 139",
+        "website": "https://www.lenhifi.de/",
+        "flag": "twemoji:flag-germany"
+    },
+    {
+        "country": "Greece",
+        "name": "Chameleon Audio",
+        "address": "Ilioupoleos 102, Dafni 172 37, Greece",
+        "tel": "+30 2130277796",
+        "website": "https://www.chameleonracks.gr/",
+        "flag": "twemoji:flag-greece"
     },
     {
         "country": "Hungary",
@@ -16,11 +64,131 @@
         "flag": "twemoji:flag-hungary"
     },
     {
+        "country": "Indonesia",
+        "name": "VTwin Audio",
+        "address": "Jakarta",
+        "tel": "+62 8176902266",
+        "website": "https://audiohungary.com/",
+        "flag": "twemoji:flag-indonesia"
+    },
+    {
         "country": "Italy",
-        "name": "MAD FOR MUSIC DI TONIOLO DIMITRI ",
+        "name": "MAD FOR MUSIC DI TONIOLO DIMITRI",
         "address": "Piazza Santi Pietro e Paolo 1, 20044 Arese MI, Italy",
         "tel": "+39 02 91447 165",
         "website": "https://www.madformusic.it/",
         "flag": "twemoji:flag-italy"
+    },
+    {
+        "country": "Kazakhstan",
+        "name": "Home AV Division STEPLine",
+        "address": "Askarova Street 1/3, Almaty 050043, Kazakhstan",
+        "tel": "+7 727 339 5300",
+        "website": "https://stepline.kz/",
+        "flag": "twemoji:flag-kazakhstan"
+    },
+    {
+        "country": "Norway",
+        "name": "Moet Audio",
+        "address": "Lagårdsveien 77, 4010 Stavanger, Norway",
+        "tel": "+47 92698778",
+        "website": "https://moetaudio.com/",
+        "flag": "twemoji:flag-norway"
+    },
+    {
+        "country": "Philippines",
+        "name": "AudioStars",
+        "address": "444 Epifanio de los Santos Ave, Makati, Metro Manila, Philippines",
+        "tel": "+63 920 950 9361",
+        "website": "https://audiostars.com.ph/",
+        "flag": "twemoji:flag-philippines"
+    },
+    {
+        "country": "Poland",
+        "name": "hORNS",
+        "address": "Turka 329A, 20-258 Lublin, Poland",
+        "tel": "+48 602 647 173",
+        "website": "https://horns.pl/en/",
+        "flag": "twemoji:flag-poland"
+    },
+    {
+        "country": "Portugal",
+        "name": "Alma Audio",
+        "address": "C. Huertas, 11, 28220 Majadahonda, Madrid, Spain",
+        "tel": "+34 607 846 527",
+        "website": "https://www.alma-audio.com/en/",
+        "flag": "twemoji:flag-portugal"
+    },
+    {
+        "country": "Russia",
+        "name": "Tophiend",
+        "address": "Moscow, 3rd Yamskogo Polya Street, 9",
+        "tel": "+7 985 725-88-55",
+        "website": "https://tophiend.ru/",
+        "flag": "twemoji:flag-russia"
+    },
+    {
+        "country": "Slovakia",
+        "name": "Enigma High Fidelity Audio",
+        "address": "Dlhá 8, 974 05 Banská Bystrica, Slovakia",
+        "tel": "+421 903 380 700",
+        "website": "https://enigma-audio.sk/",
+        "flag": "twemoji:flag-slovakia"
+    },
+    {
+        "country": "Spain",
+        "name": "Alma Audio",
+        "address": "C. Huertas, 11, 28220 Majadahonda, Madrid, Spain",
+        "tel": "+34 607 846 527",
+        "website": "https://www.alma-audio.com/en/",
+        "flag": "twemoji:flag-spain"
+    },
+    {
+        "country": "Sweden",
+        "name": "Perfect Sense Audio Ab",
+        "address": "Grenvägen, 167 33 Bromma, Sweden",
+        "tel": "+46 8 518 368 00",
+        "website": "https://perfect-sense.se/",
+        "flag": "twemoji:flag-sweden"
+    },
+    {
+        "country": "Switzerland",
+        "name": "Présence Audio",
+        "address": "Rue Saint-Léger 24, 1204 Genève, Switzerland",
+        "tel": "+41 22 311 15 77",
+        "website": "https://www.presenceaudio.ch/",
+        "flag": "twemoji:flag-switzerland"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Audio Visual Technology Solutions (UK) Ltd",
+        "address": "29-31 Avon St, Wyken, Coventry CV2 3GJ, United Kingdom",
+        "tel": "+44 1924 781011",
+        "website": "http://www.av-techsolutions.co.uk/",
+        "flag": "twemoji:flag-united-kingdom"
+    },
+    {
+        "country": "United States of America",
+        "name": "Well Pleased Audio Vida",
+        "address": "1934 Old Gallows Rd. Suite 350, Tysons Corner, VA 22182, USA",
+        "tel": "+1 703-750-5461",
+        "website": "https://wellpleasedav.com/",
+        "flag": "twemoji:flag-united-states"
+    },
+    {
+        "country": "Vietnam",
+        "name": "AudioHanoi Trading and Service Co. Ltd",
+        "address": "22 P. Hàng Chuối, Phạm Đình Hổ, Hai Bà Trưng, Hà Nội 100000, Vietnam",
+        "tel": "+84 985 547 788",
+        "website": "https://audiohanoi.com/",
+        "flag": "twemoji:flag-vietnam"
+    },
+    {
+        "country": "For other countries",
+        "name": "Audio-Hungary Kft.",
+        "address": "4400 Nyíregyháza, Derkovits utca 132/P, Hungary",
+        "tel": "+36 42 44 66 88",
+        "website": "https://audiohungary.com/",
+        "flag": "twemoji:globe-with-meridians"
     }
 ]
