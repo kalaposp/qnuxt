@@ -5,7 +5,7 @@
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -16,7 +16,7 @@
         "category": "Power Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -27,7 +27,7 @@
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -38,7 +38,7 @@
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -49,7 +49,7 @@
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -60,7 +60,7 @@
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -71,7 +71,7 @@
         "category": "Preamplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -82,7 +82,7 @@
         "category": "Power Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -93,7 +93,7 @@
         "category": "Premplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -104,7 +104,7 @@
         "category": "Step-Up Transformer",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -115,7 +115,7 @@
         "category": "Power Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -126,7 +126,7 @@
         "category": "Preamplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
         "pdf": "downloads/manuals/dummy.pdf"
@@ -137,7 +137,18 @@
         "category": "Preamplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b-front.jpg",
+        "src": "/img/manuals/300b.jpg",
+        "alt": "alt-text",
+        "status": "Active Product",
+        "pdf": "downloads/manuals/dummy.pdf"
+    },
+    {
+        "id": "manual-14",
+        "model": "X200",
+        "category": "Integrated Amplifier",
+        "title": "User's Manual",
+        "version" : "2.0",
+        "src": "img/manuals/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
