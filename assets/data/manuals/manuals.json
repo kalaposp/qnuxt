@@ -137,7 +137,7 @@
         "category": "Preamplifier",
         "title": "User's Manual",
         "version" : "2.0",
-        "src": "/img/manuals/300b.jpg",
+        "src": "/img/dummy/300b.jpg",
         "alt": "alt-text",
         "status": "Active Product",
         "pdf": "downloads/manuals/dummy.pdf"
