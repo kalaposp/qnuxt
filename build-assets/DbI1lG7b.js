@@ -1,0 +1,1 @@
+import{_ as t}from"./DGX6ug5I.js";import{u as a}from"./CR-nFBlv.js";import{c as o,b as m,o as n}from"./BfqDA957.js";const p={__name:"index",setup(r){return a({title:"Qualiton | Dummy Page"}),(s,c)=>{const e=t;return n(),o("div",null,[m(e,{src:"/img/manuals/300b.jpg"})])}}};export{p as default};
