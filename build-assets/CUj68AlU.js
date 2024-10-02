@@ -1,0 +1,1 @@
+import{u as e,c as t,o as a,a as o}from"./CWGAXxcT.js";const s=o("p",null,"Service Repair",-1),c=[s],l={__name:"index",setup(r){return e({title:"Qualiton | Service Repair"}),(n,i)=>(a(),t("div",null,c))}};export{l as default};
