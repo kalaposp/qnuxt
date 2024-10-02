@@ -1,1 +1,0 @@
-import{u as e,c as t,o as a,a as o}from"./Dp0hsxMO.js";const s=o("p",null,"Legacy Products",-1),c=[s],l={__name:"index",setup(n){return e({title:"Qualiton | Legacy Products"}),(r,_)=>(a(),t("div",null,c))}};export{l as default};
