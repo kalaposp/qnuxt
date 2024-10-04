@@ -1,7 +1,7 @@
 [
     {
         "id": "manual-1",
-        "model": "300b-gray-50",
+        "model": "300B",
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
