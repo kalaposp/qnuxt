@@ -1,0 +1,1 @@
+import{u as e,c as t,o as a,a as o}from"./BB9HiPQp.js";const s=o("p",null,"X200",-1),n=[s],i={__name:"index",setup(c){return e({title:"Qualiton | X200 Integrated Amplifier"}),(r,_)=>(a(),t("div",null,n))}};export{i as default};

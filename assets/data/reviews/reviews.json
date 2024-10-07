@@ -3,7 +3,7 @@
         "id": "review-4",
         "site": "Site 4",
         "title": "Review Title 4 Lorem, Lorem",
-        "src": "/img/dummy/bg-gray-50-16x9.jpg",
+        "src": "/img/reviews/slate-50.jpg",
         "alt": "alt-text",
         "date": "2024.08.13.",
         "pdf": "downloads/reviews/dummy.pdf"
@@ -12,7 +12,7 @@
         "id": "review-3",
         "site": "Site 3",
         "title": "Review Title 3 Lorem, ipsum dolor sit amet",
-        "src": "/img/dummy/bg-gray-50-16x9.jpg",
+        "src": "/img/reviews/slate-50.jpg",
         "alt": "alt-text",
         "date": "2024.08.13.",
         "pdf": "downloads/reviews/dummy.pdf"
@@ -21,7 +21,7 @@
         "id": "review-2",
         "site": "Site 2",
         "title": "Review Title 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit",
-        "src": "/img/dummy/bg-gray-50-16x9.jpg",
+        "src": "/img/reviews/slate-50.jpg",
         "alt": "alt-text",
         "date": "2024.08.12.",
         "pdf": "downloads/reviews/dummy.pdf"
@@ -30,7 +30,7 @@
         "id": "review-1",
         "site": "Site 1",
         "title": "Review Title 1",
-        "src": "/img/dummy/bg-gray-50-16x9.jpg",
+        "src": "/img/reviews/slate-50.jpg",
         "alt": "alt-text",
         "date": "2024.01.01.",
         "pdf": "downloads/reviews/dummy.pdf"
