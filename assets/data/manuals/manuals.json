@@ -8,7 +8,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/300b/300B-FH-2024.pdf"
     },
     {
         "id": "manual-2",
@@ -30,7 +30,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/a20i/A20i-FH-2020.pdf"
     },
     {
         "id": "manual-4",
@@ -41,7 +41,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/a35/A35-FH-2023.pdf"
     },
     {
         "id": "manual-5",
@@ -52,7 +52,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/a50i/A50i-FH-2020.pdf"
     },
     {
         "id": "manual-6",
@@ -63,7 +63,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/a75/A75-FH-2022.pdf"
     },
     {
         "id": "manual-7",
@@ -74,7 +74,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/apr204/APR204-FH-2020.pdf"
     },
     {
         "id": "manual-8",
@@ -85,7 +85,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/apx200/APX200-FH-2020.pdf"
     },
     {
         "id": "manual-9",
@@ -96,7 +96,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/c200/C200-FH-2022.pdf"
     },
     {
         "id": "manual-10",
@@ -107,7 +107,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/mc/Qualiton mc felhasználói kézikönyv ANGOL.pdf"
     },
     {
         "id": "manual-11",
@@ -118,7 +118,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/p200/P200-FH-2021-WEB.pdf"
     },
     {
         "id": "manual-12",
@@ -129,7 +129,7 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Legacy Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/phono-mk-1/PHONO felhasználói kézikönyv 2 angol.pdf"
     },
     {
         "id": "manual-13",
@@ -140,17 +140,28 @@
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/phono-mk-2/PHONO-FH-2023.pdf"
     },
     {
         "id": "manual-14",
-        "model": "X200",
+        "model": "X200 (Automatic Bias)",
         "category": "Integrated Amplifier",
         "title": "User's Manual",
         "version" : "2.0",
         "src": "/img/manuals/300b-slate-50.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/manuals/dummy.pdf"
+        "pdf": "downloads/manuals/x200/X200-AB-FH-2022.pdf"
+    },
+    {
+        "id": "manual-15",
+        "model": "X200 (Manual Bias)",
+        "category": "Integrated Amplifier",
+        "title": "User's Manual",
+        "version" : "2.0",
+        "src": "/img/manuals/300b-slate-50.jpg",
+        "alt": "alt-text",
+        "status": "Legacy Product",
+        "pdf": "downloads/manuals/x200/X200-FH-2021-WEB.pdf"
     }
 ]
