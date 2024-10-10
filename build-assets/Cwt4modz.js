@@ -1,0 +1,1 @@
+import{u as e,c as t,o as a,a as o}from"./Bzk8AjUs.js";const s=o("p",null,"C200",-1),n=[s],i={__name:"index",setup(c){return e({title:"C200 Preamplifier - Qualiton"}),(r,_)=>(a(),t("div",null,n))}};export{i as default};
