@@ -1,0 +1,117 @@
+[
+    {
+        "category": "Line Section",
+        "rowheader": "Nominal Output Level",
+        "value": "4 Volts"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader": "Nominal Output Level",
+        "value": "4 Volts"
+    },
+    {   
+        "category": "Line Section",
+        "rowheader": "Input Sensitivity",
+        "value": "1 Volt to nominal output level"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader":"Input Sensitivity",
+        "value":"5.7 millivolts to nominal output level"
+    },
+    {   
+        "category": "Line Section",
+        "rowheader": "Max. Input Signal",
+        "value": "10 Volts"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader":"Max. Input Signal",
+        "value":"70 millivolts"
+    },
+    {
+        "category": "Line Section",
+        "rowheader":"Frequency Response",
+        "value":"4 Hz - 300 kHz (-1 dB)"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader":"Frequency Response",
+        "value":"20 Hz - 20 kHz (-0.5 dB)"
+    },
+    {
+        "category": "Line Section",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.05%, (f = 1 kHz)"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.1%, (f = 1 kHz)"
+    },
+    {
+        "category": "Line Section",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 100 dB below nominal output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > x dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 70 dB below nominal output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > x dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Line Section",
+        "rowheader":"Input Impedance",
+        "value":"10 000 Ohms"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader":"Input Impedance",
+        "value":"47 000 Ohms"
+    },
+    {
+        "category": "Line Section",
+        "rowheader":"Gain",
+        "value":"+12 dB"
+    },
+    {
+        "category": "Phono Section",
+        "rowheader":"Gain",
+        "value":"+57 dB"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Inputs",
+        "value":"4 unbalanced line level inputs (LINE 1-4)\n 2 balanced line level inputs (BALANCED INPUTS 1-2)\n 1 PHONO level input (PHONO MM)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Outputs",
+        "value":"2 unbalanced line level outputs (LINE, SUB)\n 1 balanced line level output (BALANCED OUTPUTS)\n 1 HEADPHONE output per channel"
+    },
+    {
+        "category": "General",
+        "rowheader":"Vacuum Tubes",
+        "value":"8 x 12AX7 / ECC83"
+    },
+    {
+        "category": "General",
+        "rowheader":"Remote Control",
+        "value":"Volume Up \n Volume Down \n Mute"
+    },
+    {
+        "category": "General",
+        "rowheader":"Power Requirement",
+        "value":"100 W max"
+    },
+    {
+        "category": "General",
+        "rowheader":"Weight",
+        "value":"10.4 kg"
+    },
+    {
+        "category": "General",
+        "rowheader":"Dimensions",
+        "value":"L 40 cm x W 43 cm x H 16 cm"
+    }
+]

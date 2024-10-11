@@ -1,0 +1,35 @@
+[
+    {
+        "id": "download-1",
+        "model": "C200",
+        "category": "Vacuum Tube Preamplifier",
+        "title": "User's Manual",
+        "version" : "2.0",
+        "src": "/img/c200/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Active Product",
+        "pdf": "downloads/c200/dummy.pdf"
+    },
+    {
+        "id": "download-2",
+        "model": "C200",
+        "category": "Vacuum Tube Preamplifier",
+        "title": "Brochure",
+        "version" : "2.0",
+        "src": "/img/c200/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Active Product",
+        "pdf": "downloads/c200/dummy.pdf"
+    },
+    {
+        "id": "download-3",
+        "model": "C200",
+        "category": "Vacuum Tube Preamplifier",
+        "title": "Measurements",
+        "version" : "2.0",
+        "src": "/img/c200/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Legacy Product",
+        "pdf": "downloads/c200/dummy.pdf"
+    }
+]

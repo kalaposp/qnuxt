@@ -1,0 +1,35 @@
+[
+    {
+        "id": "download-1",
+        "model": "Phono",
+        "category": "Vacuum Tube Preamplifier",
+        "title": "User's Manual",
+        "version" : "2.0",
+        "src": "/img/phono/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Active Product",
+        "pdf": "downloads/phono/dummy.pdf"
+    },
+    {
+        "id": "download-2",
+        "model": "Phono",
+        "category": "Vacuum Tube Preamplifier",
+        "title": "Brochure",
+        "version" : "2.0",
+        "src": "/img/phono/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Active Product",
+        "pdf": "downloads/phono/dummy.pdf"
+    },
+    {
+        "id": "download-3",
+        "model": "Phono",
+        "category": "Vacuum Tube Preamplifier",
+        "title": "Measurements",
+        "version" : "2.0",
+        "src": "/img/phono/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Legacy Product",
+        "pdf": "downloads/phono/dummy.pdf"
+    }
+]

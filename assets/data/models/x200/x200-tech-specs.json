@@ -1,0 +1,157 @@
+[
+    {
+        "category": "Preamplifier",
+        "rowheader":"Gain",
+        "value":"+46 dB (Phono) \n +0 dB (Line)"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Max. Input Signal",
+        "value":"40 millivolts (Phono) \n 8 Volts (Line)"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Input Impedance",
+        "value":"47 000 Ohms || 120 pF (Phono) \n 25 000 Ohms || 10 pF (Line)"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Frequency Response",
+        "value":"20 Hz - 20 kHz (-0.5 dB, Phono) \n 4 Hz - 1 MHz (-3 dB, Line)"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.03% (f = 10 kHz, Phono) \n < 0.001% (f = 20 Hz to 20 kHz, Line)"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 60 dB below 1 Volt (Phono) \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > 90 dB below 1 Volt (Line) \n 20 Hz - 22 kHz bandwidth, without weighting filter"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Max. deviation from RIAA curve",
+        "value":"+/- 0.5 dB"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Bass boost",
+        "value":"+ 5.6 dB in EQ setting I \n + 7.6 dB in EQ setting II"
+    },
+    {
+        "category": "Preamplifier",
+        "rowheader":"Treble boost",
+        "value":"+ 6 dB in EQ setting I \n + 8 dB in EQ setting II"
+    },
+    {
+        "category": "Headphone Amplifier",
+        "rowheader": "Rated Output Power",
+        "value": "2 x 0.3 Watts @ 32 Ohms"
+    },
+    {
+        "category": "Headphone Amplifier",
+        "rowheader":"Frequency Response",
+        "value":"4 Hz to 1 MHz (-3 dB)"
+    },
+    {
+        "category": "Headphone Amplifier",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.008% (RL = 32 Ohm, 0.125 W)"
+    },
+    {
+        "category": "Headphone Amplifier",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 95 dB below rated output @ 32 Ohms \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > x dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Headphone Amplifier",
+        "rowheader":"Gain",
+        "value":"-6 dB dB @ 32 Ohms"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader": "Rated Output Power",
+        "value": "2 x 100 Watts @ 4 to 8 Ohms"
+    },
+    {   
+        "category": "Power Amplifier",
+        "rowheader": "Output Load Impedance",
+        "value": "4 to 8 Ohms"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Number of Channels",
+        "value":"2"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Frequency Response",
+        "value":"5 Hz - 85 kHz (-3 dB, 1 Watt) \n 27 Hz - 70 kHz (-3 dB, 100 Watts)"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 1 % across the entire power spectrum, \n from milliwatts to rated output, \n spanning 20 Hz to 20 kHz."
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Rated Power Bandwidth",
+        "value":"20 Hz - 20 kHz"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 100 dB below rated output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > x dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Input Sensitivity \n (for rated output)",
+        "value":"0.46 Volts Preamp IN \n 0.46 Volts Direct IN Balanced \n 2.25 millivolts Phono IN"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Input Impedance",
+        "value":"10 000 Ohms Direct IN Unbalanced \n 20 000 Ohms Direct IN Balanced"
+    },
+    {
+        "category": "Power Amplifier",
+        "rowheader":"Gain",
+        "value":"+35.5 dB @ 8 Ohms"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Inputs",
+        "value":"1 unbalanced Phono IN \n 4 unbalanced Line IN \n 1 unbalanced Direct IN \n 1 balanced Direct IN"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Outputs",
+        "value":"1 unbalanced Line OUT \n 1 unbalanced Sub OUT \n 1 unbalanced EQ OUT \n 1 unbalanced Phones OUT \n 1 balanced Power OUT"
+    },
+    {
+        "category": "General",
+        "rowheader":"Vacuum Tubes",
+        "value":"2 x 12AX7 \n 2 x 6922 \n 4 x KT120 (KT150 / KT170 optionally)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Remote Control",
+        "value":"Volume Up \n Volume Down \n Mute"
+    },
+    {
+        "category": "General",
+        "rowheader":"Power Requirement",
+        "value":"200 W idle \n 720 W max"
+    },
+    {
+        "category": "General",
+        "rowheader":"Weight",
+        "value":"23 kg"
+    },
+    {
+        "category": "General",
+        "rowheader":"Dimensions",
+        "value":"L 47.5 x W 43 x H 20 cm"
+    }
+]

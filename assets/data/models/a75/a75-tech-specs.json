@@ -1,0 +1,87 @@
+[
+    {
+        "category": "Electrical",
+        "rowheader": "Rated Output Power",
+        "value": "2 x 75 Watts @ 4 or 8 Ohms"
+    },
+    {   
+        "category": "Electrical",
+        "rowheader": "Output Load Impedance",
+        "value": "4 or 8 Ohms"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Number of Channels",
+        "value":"2"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Frequency Response",
+        "value":"5 Hz - 85 kHz (-3 dB, 1 Watt) \n 25 Hz - 70 kHz (-3 dB, 75 Watts)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.2 % across the entire power spectrum, \n from milliwatts to rated output, \n spanning 20 Hz to 20 kHz."
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Rated Power Bandwidth",
+        "value":"20 Hz - 20 kHz"
+    },
+    {
+        "category": "Electrical",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 100 dB below rated output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > 110 dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Number of Outputs",
+        "value":"2 Unbalanced POWER OUT"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Number of Inputs",
+        "value":"3 Unbalanced STEREO IN \n 1 Balanced STEREO IN"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Input Sensitivity \n (for rated output)",
+        "value":"0.92 Volts Unbalanced \n 0.92 Volts Balanced"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Input Impedance",
+        "value":"10 000 Ohms Unbalanced \n 40 000 Ohms Balanced"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Gain",
+        "value":"+25.5 dB @ 4 Ohms \n +28.5 dB @ 8 Ohms"
+    },
+    {
+        "category": "General",
+        "rowheader":"Vacuum Tubes",
+        "value":"2 x 12AX7 \n 4 x 12AT7 \n 4 x KT120 (KT150 / KT170 optionally)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Remote Control",
+        "value":"Input Selection \n Volume Up \n Volume Down \n Mute"
+    },
+    {
+        "category": "General",
+        "rowheader":"Power Requirement",
+        "value":"620 W max"
+    },
+    {
+        "category": "General",
+        "rowheader":"Weight",
+        "value":"21 kg"
+    },
+    {
+        "category": "General",
+        "rowheader":"Dimensions",
+        "value":"35 x 42 x 22 cm"
+    }
+]

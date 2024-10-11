@@ -1,0 +1,142 @@
+[
+    {
+        "category": "Stereo Mode",
+        "rowheader": "Rated Output Power",
+        "value": "2 x 100 Watts @ 4 or 8 Ohms"
+    },
+    {   
+        "category": "Stereo Mode",
+        "rowheader": "Output Load Impedance",
+        "value": "4 or 8 Ohms"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Number of Channels",
+        "value":"2"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Frequency Response",
+        "value":"5 Hz - 85 kHz (-3 dB, 1 Watt) \n 18 Hz - 60 kHz (-3 dB, 100 Watts)"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 1 % across the entire power spectrum, \n from milliwatts to rated output, \n spanning 20 Hz to 20 kHz."
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Rated Power Bandwidth",
+        "value":"20 Hz - 20 kHz"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 100 dB below rated output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > 110 dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Number of Outputs",
+        "value":"2 Unbalanced POWER OUT"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Number of Inputs",
+        "value":"1 Unbalanced STEREO IN \n 1 Balanced STEREO IN"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Input Sensitivity \n (for rated output)",
+        "value":"0.48 Volts Unbalanced \n 0.48 Volts Balanced"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Input Impedance",
+        "value":"10 000 Ohms Unbalanced \n 40 000 Ohms Balanced"
+    },
+    {
+        "category": "Stereo Mode",
+        "rowheader":"Gain",
+        "value":"+32.4 dB @ 4 Ohms \n +35.4 dB @ 8 Ohms"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader": "Rated Output Power",
+        "value": "1 x 200 Watts @ 8 Ohms"
+    },
+    {   
+        "category": "Bridge Mode",
+        "rowheader": "Output Load Impedance",
+        "value": "8 Ohms"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Number of Channels",
+        "value":"1"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Frequency Response",
+        "value":"5 Hz - 85 kHz (-3 dB, 1 Watt) \n 20 Hz - 55 kHz (-3 dB, 200 Watts)"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 1 % across the entire power spectrum, \n from milliwatts to rated output, \n spanning 20 Hz to 20 kHz."
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Rated Power Bandwidth",
+        "value":"20 Hz - 20 kHz"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 100 dB below rated output \n 20 Hz - 22 kHz bandwidth, without weighting filter \n \n > 110 dB below rated output \n with A-weighting filter"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Number of Outputs",
+        "value":"1 Unbalanced POWER OUT"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Number of Inputs",
+        "value":"1 Balanced Bridge IN"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Input Sensitivity \n (for rated output)",
+        "value":"1 Volt Balanced"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Input Impedance",
+        "value":"20 000 Ohms Balanced"
+    },
+    {
+        "category": "Bridge Mode",
+        "rowheader":"Gain",
+        "value":"+32 dB @ 8 Ohms"
+    },
+    {
+        "category": "General",
+        "rowheader":"Vacuum Tubes",
+        "value":"2 x 12AX7 \n 2 x 6922 \n 4 x KT120 (KT150 / KT170 optionally)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Power Requirement",
+        "value":"720 W max"
+    },
+    {
+        "category": "General",
+        "rowheader":"Weight",
+        "value":"26 kg"
+    },
+    {
+        "category": "General",
+        "rowheader":"Dimensions",
+        "value":"43 x 46 x 21 cm"
+    }
+]

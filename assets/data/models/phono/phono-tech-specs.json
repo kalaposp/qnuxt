@@ -1,0 +1,77 @@
+[
+    {
+        "category": "Electrical",
+        "rowheader": "Nominal Output Level",
+        "value": "0.7 Volts"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Input Sensitivity",
+        "value":"5.0 millivolts to nominal output level (MM) \n 0.4 millivolts to nominal output level (MC Hi-Z) \n 0.3 millivolts to nominal output level (MC Lo-Z)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Max. Input Signal",
+        "value":"120 millivolts (MM)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Frequency Response",
+        "value":"20 Hz - 20 kHz (-0.5 dB, MM)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.1%, (f = 1 kHz, MM)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader": "Signal-to-Noise Ratio",
+        "value": "> 70 dB below nominal output (MM) \n 20 Hz - 22 kHz bandwidth, without weighting filter, with tube cover installed \n \n > x dB below rated output (MM) \n with A-weighting filter, with tube cover installed"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Input Impedance",
+        "value":"47 000 Ohms (MM)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Recommended MC cartridge internal impedance",
+        "value":"10 - 40 Ohm (MC Hi-Z) \n 2 - 10 Ohm (MC Lo-Z)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Gain",
+        "value":"+43 dB (MM) \n +65 dB (MC Hi-Z) \n +68 dB (MC Lo-Z)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Inputs",
+        "value":"2 phono level inputs (PHONO MM, PHONO MC)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Outputs",
+        "value":"1 unbalanced line level output (LINE)"
+    },
+    {
+        "category": "General",
+        "rowheader":"Vacuum Tubes",
+        "value":"4 x 6SL7GT"
+    },
+    {
+        "category": "General",
+        "rowheader":"Power Requirement",
+        "value":"80 W max"
+    },
+    {
+        "category": "General",
+        "rowheader":"Weight",
+        "value":"8 kg"
+    },
+    {
+        "category": "General",
+        "rowheader":"Dimensions",
+        "value":"L 34 cm x W 24 cm x H 16 cm"
+    }
+]
