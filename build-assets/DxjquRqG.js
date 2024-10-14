@@ -1,1 +1,0 @@
-import{u as e,c as t,o as s,a as o}from"./C0h1ByEq.js";const a=o("p",null,"Frequently Asked Questions",-1),n=[a],u={__name:"index",setup(c){return e({title:"FAQs - Qualiton"}),(_,l)=>(s(),t("div",null,n))}};export{u as default};

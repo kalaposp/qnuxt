@@ -1,1 +1,0 @@
-import{u as e,c as o,o as t,a}from"./C0h1ByEq.js";const n=a("p",null,"Technology",-1),s=[n],u={__name:"index",setup(c){return e({title:"Technology - Qualiton"}),(l,_)=>(t(),o("div",null,s))}};export{u as default};
