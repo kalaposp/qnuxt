@@ -1,1 +1,0 @@
-import{u as o,c as t,a,o as n}from"./CJwqyl3V.js";const u={__name:"index",setup(l){return o({title:"Technology - Qualiton"}),(s,e)=>(n(),t("div",null,e[0]||(e[0]=[a("p",null,"Technology",-1)])))}};export{u as default};
