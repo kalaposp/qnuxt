@@ -8,28 +8,6 @@
         "src": "/img/x200/dummy-dark.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/x200/dummy.pdf"
-    },
-    {
-        "id": "download-2",
-        "model": "X200",
-        "category": "Integrated Amplifier",
-        "title": "Brochure",
-        "version" : "2.0",
-        "src": "/img/x200/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Active Product",
-        "pdf": "downloads/x200/dummy.pdf"
-    },
-    {
-        "id": "download-3",
-        "model": "X200",
-        "category": "Integrated Amplifier",
-        "title": "Measurements",
-        "version" : "2.0",
-        "src": "/img/x200/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Legacy Product",
-        "pdf": "downloads/x200/dummy.pdf"
+        "pdf": "downloads/manuals/x200/X200-AB-FH-2022.pdf"
     }
 ]
