@@ -8,28 +8,6 @@
         "src": "/img/300b/dummy-dark.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/300b/dummy.pdf"
-    },
-    {
-        "id": "download-2",
-        "model": "300B",
-        "category": "Integrated Amplifier",
-        "title": "Brochure",
-        "version" : "2.0",
-        "src": "/img/300b/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Active Product",
-        "pdf": "downloads/300b/dummy.pdf"
-    },
-    {
-        "id": "download-3",
-        "model": "300B",
-        "category": "Integrated Amplifier",
-        "title": "Measurements",
-        "version" : "2.0",
-        "src": "/img/300b/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Legacy Product",
-        "pdf": "downloads/300b/dummy.pdf"
+        "pdf": "downloads/manuals/300b/300b-FH-2024.pdf"
     }
 ]

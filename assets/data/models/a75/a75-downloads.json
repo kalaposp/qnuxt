@@ -8,28 +8,6 @@
         "src": "/img/a75/dummy-dark.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/a75/dummy.pdf"
-    },
-    {
-        "id": "download-2",
-        "model": "A75",
-        "category": "Integrated Amplifier",
-        "title": "Brochure",
-        "version" : "2.0",
-        "src": "/img/a75/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Active Product",
-        "pdf": "downloads/a75/dummy.pdf"
-    },
-    {
-        "id": "download-3",
-        "model": "A75",
-        "category": "Integrated Amplifier",
-        "title": "Measurements",
-        "version" : "2.0",
-        "src": "/img/a75/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Legacy Product",
-        "pdf": "downloads/a75/dummy.pdf"
+        "pdf": "downloads/manuals/a75/A75-FH-2022.pdf"
     }
 ]

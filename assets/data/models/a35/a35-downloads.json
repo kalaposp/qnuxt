@@ -8,28 +8,6 @@
         "src": "/img/a35/dummy-dark.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/a35/dummy.pdf"
-    },
-    {
-        "id": "download-2",
-        "model": "A35",
-        "category": "Integrated Amplifier",
-        "title": "Brochure",
-        "version" : "2.0",
-        "src": "/img/a35/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Active Product",
-        "pdf": "downloads/a35/dummy.pdf"
-    },
-    {
-        "id": "download-3",
-        "model": "A35",
-        "category": "Integrated Amplifier",
-        "title": "Measurements",
-        "version" : "2.0",
-        "src": "/img/a35/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Legacy Product",
-        "pdf": "downloads/a35/dummy.pdf"
+        "pdf": "downloads/manuals/a35/A35-FH-2023.pdf"
     }
 ]

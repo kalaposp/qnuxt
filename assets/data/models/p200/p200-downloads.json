@@ -8,28 +8,6 @@
         "src": "/img/p200/dummy-dark.jpg",
         "alt": "alt-text",
         "status": "Active Product",
-        "pdf": "downloads/p200/dummy.pdf"
-    },
-    {
-        "id": "download-2",
-        "model": "P200",
-        "category": "Power Amplifier",
-        "title": "Brochure",
-        "version" : "2.0",
-        "src": "/img/p200/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Active Product",
-        "pdf": "downloads/p200/dummy.pdf"
-    },
-    {
-        "id": "download-3",
-        "model": "P200",
-        "category": "Power Amplifier",
-        "title": "Measurements",
-        "version" : "2.0",
-        "src": "/img/p200/dummy-dark.jpg",
-        "alt": "alt-text",
-        "status": "Legacy Product",
-        "pdf": "downloads/p200/dummy.pdf"
+        "pdf": "downloads/manuals/p200/p200-FH-2021-WEB.pdf"
     }
 ]
