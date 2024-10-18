@@ -1,0 +1,1 @@
+import{u as t,c as s,a,o as n}from"./C15NjvMk.js";const u={__name:"index",setup(o){return t({title:"FAQs - Qualiton"}),(l,e)=>(n(),s("div",null,e[0]||(e[0]=[a("p",null,"Frequently Asked Questions",-1)])))}};export{u as default};
