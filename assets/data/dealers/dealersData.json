@@ -36,7 +36,7 @@
         "name": "Analogue Atelier",
         "address": "Belgická 132/14, 120 00 Vinohrady, Prague, Czech Republic",
         "tel": "+420 724175822",
-        "website": "https://www.southmusic.cl/",
+        "website": "https://audiohungary.com/",
         "flag": "twemoji:flag-czechia"
     },
     {
@@ -46,6 +46,14 @@
         "tel": "+45 93 95 08 00",
         "website": "https://studiosound.dk/",
         "flag": "twemoji:flag-denmark"
+    },
+    {
+        "country": "France",
+        "name": "Tabula-Rasa Audio Distribution",
+        "address": "44000, Nantes, France",
+        "tel": "+33 2 51 72 74 87",
+        "website": "https://www.tabula-rasa-audio.com/",
+        "flag": "twemoji:flag-france"
     },
     {
         "country": "Germany",
@@ -102,14 +110,6 @@
         "tel": "+47 92698778",
         "website": "https://moetaudio.com/",
         "flag": "twemoji:flag-norway"
-    },
-    {
-        "country": "Philippines",
-        "name": "AudioStars",
-        "address": "444 Epifanio de los Santos Ave, Makati, Metro Manila, Philippines",
-        "tel": "+63 920 950 9361",
-        "website": "https://audiostars.com.ph/",
-        "flag": "twemoji:flag-philippines"
     },
     {
         "country": "Poland",
