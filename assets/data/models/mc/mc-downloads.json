@@ -1,0 +1,13 @@
+[
+    {
+        "id": "download-1",
+        "model": "MC",
+        "category": "Step-Up Transformer",
+        "title": "User's Manual",
+        "version" : "2.0",
+        "src": "/img/phono/dummy-dark.jpg",
+        "alt": "alt-text",
+        "status": "Active Product",
+        "pdf": "downloads/manuals/mc/Qualiton mc felhasználói kézikönyv ANGOL.pdf"
+    }
+]

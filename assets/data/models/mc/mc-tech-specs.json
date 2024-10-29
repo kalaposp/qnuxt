@@ -1,0 +1,67 @@
+[
+    {
+        "category": "Electrical",
+        "rowheader": "Nominal Output Level",
+        "value": "5.0 millivolts"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Input Sensitivity",
+        "value":"0.325 millivolts to nominal output level"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Frequency Response",
+        "value":"5 Hz - 90 kHz (-3 dB)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Total Harmonic Distortion",
+        "value":"< 0.02% @ nominal output level"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Gain",
+        "value":"Factory preconfigured \n  \n +24 dB (Lo-Gain) \n +30 dB (Hi-Gain)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Turns Ratio",
+        "value":"Factory preconfigured \n  \n  1:18 (Lo-Gain) \n 1:30 (Hi-Gain)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Input Impedance",
+        "value":"145 Ohms (Lo-Gain) \n 50 Ohms (Hi-Gain)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Recommended MC cartridge internal impedance",
+        "value":"10 - 50 Ohms (Lo-Gain) \n 2 - 10 Ohms (Hi-Gain)"
+    },
+    {
+        "category": "Electrical",
+        "rowheader":"Nominal Load Impedance",
+        "value":"47 000 Ohms"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Inputs",
+        "value":"1 unbalanced MC phono level input"
+    },
+    {
+        "category": "General",
+        "rowheader":"Number of Outputs",
+        "value":"1 unbalanced MM phono level output"
+    },
+    {
+        "category": "General",
+        "rowheader":"Weight",
+        "value":"1 kg"
+    },
+    {
+        "category": "General",
+        "rowheader":"Dimensions",
+        "value":"L 15.5 cm x W 11 cm x H 8 cm"
+    }
+]
