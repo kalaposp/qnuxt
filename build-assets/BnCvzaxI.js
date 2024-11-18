@@ -1,1 +1,0 @@
-import{u as t,o as a,c as o,a as s}from"./BvsHV5N2.js";const c={__name:"index",setup(r){return t({title:"Legacy Products - Qualiton"}),(n,e)=>(a(),o("div",null,e[0]||(e[0]=[s("p",null,"Legacy Products",-1)])))}};export{c as default};

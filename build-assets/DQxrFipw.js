@@ -1,0 +1,1 @@
+import{u as a,o as r,c as t,a as n}from"./DRvgjMou.js";const l={__name:"index",setup(o){return a({title:"Service Repair - Qualiton"}),(s,e)=>(r(),t("div",null,e[0]||(e[0]=[n("p",null,"Service Repair",-1)])))}};export{l as default};
