@@ -1,1 +1,0 @@
-import{u as t,o as s,c as a,a as n}from"./DRvgjMou.js";const u={__name:"index",setup(o){return t({title:"FAQs - Qualiton"}),(l,e)=>(s(),a("div",null,e[0]||(e[0]=[n("p",null,"Frequently Asked Questions",-1)])))}};export{u as default};
