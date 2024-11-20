@@ -83,15 +83,5 @@
         "category": "General",
         "rowheader":"Dimensions",
         "value":"42.5 x 50 x 21 cm"
-    },
-    {
-        "category": "General",
-        "rowheader":"Shipping Weight",
-        "value":"xx kg"
-    },
-    {
-        "category": "General",
-        "rowheader":"Shipping Dimensions",
-        "value":"xx x xx x xx cm"
     }
 ]
